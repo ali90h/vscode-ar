@@ -1,0 +1,24 @@
+{
+  "name": "vscode-language-pack-ar",
+  "displayName": "Arabic Language Pack (Community)",
+  "publisher": "ali90h",
+  "version": "0.0.1",
+  "engines": { "vscode": "^1.90.0" },
+  "categories": ["Language Packs"],
+  "contributes": {
+    "localizations": [
+      {
+        "languageId": "ar",
+        "languageName": "Arabic",
+        "localizedLanguageName": "العربية",
+        "translations": [
+          { "id": "vscode", "path": "./translations/main.i18n.json" },
+          { "id": "vscode", "path": "./translations/workbench.i18n.json" }
+        ]
+      }
+    ]
+  },
+  "repository": "https://github.com/ali90h/vscode-ar",
+  "license": "MIT",
+  "bugs": { "url": "https://github.com/ali90h/vscode-ar/issues" }
+}
