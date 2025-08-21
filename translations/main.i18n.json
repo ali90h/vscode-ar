@@ -1,0 +1,18 @@
+// translations/main.i18n.json
+{
+  "menu.file": "ملف",
+  "menu.edit": "تحرير",
+  "menu.view": "عرض",
+  "menu.go": "انتقال",
+  "menu.run": "تشغيل",
+  "menu.terminal": "الطرفية",
+  "menu.help": "مساعدة",
+  "action.newFile": "ملف جديد",
+  "action.openFile": "فتح ملف",
+  "action.save": "حفظ",
+  "dialog.ok": "موافق",
+  "dialog.cancel": "إلغاء",
+  "statusbar.problems": "المشكلات",
+  "statusbar.git": "التحكم بالإصدارات",
+  "panel.output": "المخرجات"
+}
